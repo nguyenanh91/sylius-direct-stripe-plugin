@@ -11,3 +11,4 @@ final class SyliusDirectStripePlugin extends Bundle
 {
     use SyliusPluginTrait;
 }
+ 
